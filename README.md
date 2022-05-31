@@ -1,5 +1,7 @@
 # Hi there 👋, My name is Bruno Lauria
 
+# Hi there 👋, My name is Bruno Lauria
+
 ## 💫 Liitle Bit More About Me
 
 ## 💻 Skills
@@ -21,11 +23,6 @@
 
 ## 🌟 Github Badges
 <p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=brunolauria">
 </p>
 
 ## 📊 Github Status

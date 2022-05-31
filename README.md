@@ -1,7 +1,5 @@
 # Hi there 👋, My name is Bruno Lauria
 
-# Hi there 👋, My name is Bruno Lauria
-
 ## 💫 Liitle Bit More About Me
 
 ## 💻 Skills

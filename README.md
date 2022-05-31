@@ -1,7 +1,5 @@
 # Hi there 👋, My name is Bruno Lauria
 
-## 💫 Liitle Bit More About Me
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -15,13 +13,6 @@
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
 
 ## 📊 Github Status
 

@@ -1,4 +1,5 @@
-# Hi there 👋, My name is Bruno Lauria
+![Header](./github-header-image.png)
+
 
 ## 💻 Skills
 <p>
